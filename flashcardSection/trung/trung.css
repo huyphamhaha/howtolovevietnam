@@ -71,7 +71,7 @@ body {
     display: flex; 
     align-items: center;
     justify-content: center;
-    margin-top: 20px;
+    margin-top: 100px;
 }
 @media (max-width: 1113px) {
     .grid-container {
@@ -99,5 +99,8 @@ body {
     }
     .tours-container{
         display: auto;
+    }
+    .map {
+        display: none;
     }
 }
