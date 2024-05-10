@@ -554,6 +554,12 @@ section{
       border-right: 0;
    }
 
+   
+   .watch-video .video-container {
+      margin-top: 100vh !important;
+   }
+
+
 }
 
 @media (max-width:991px){
@@ -589,7 +595,12 @@ section{
 
 }
 
-@media (max-width:450px){
+
+@media screen and (max-width:450px){
+   
+   .watch-video .video-container {
+      margin-top: 100vh !important;
+   }
 
    html{
       font-size: 50%;
