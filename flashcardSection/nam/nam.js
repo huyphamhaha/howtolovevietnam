@@ -15,7 +15,7 @@ document.getElementById('Vung-Tau').addEventListener('click', function() {
   window.location.href = '../../provinceSection/provinceLink/VungTau/province.html'
 });
 document.getElementById('Long-An').addEventListener('click', function() {
-  window.location.href = '../../provinceSection/provinceLink'
+  window.location.href = '../../provinceSection/provinceLink/LongAn/province.html'
 });
 document.getElementById('Dong-Thap').addEventListener('click', function() {
   window.location.href = '../../provinceSection/provinceLink/DongThap/province.html'

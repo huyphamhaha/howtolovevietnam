@@ -2,7 +2,7 @@ document.getElementById('Thanh-Hoa').addEventListener('click', function() {
   window.location.href = '../../provinceSection/provinceLink/ThanhHoa/province.html'
 });
 document.getElementById('Nghe-An').addEventListener('click', function() {
-  window.location.href = '../../provinceSection/provinceLink'
+  window.location.href = '../../provinceSection/provinceLink/NgheAn/province.html'
 });
 document.getElementById('Ha-Tinh').addEventListener('click', function() {
   window.location.href = '../../provinceSection/provinceLink/HaTinh/province.html'
@@ -50,7 +50,7 @@ document.getElementById('Lam-Dong').addEventListener('click', function() {
   window.location.href = '../../provinceSection/provinceLink/LamDong/province.html'
 });
 document.getElementById('Ninh-Thuan').addEventListener('click', function() {
-  window.location.href = '../../provinceSection/provinceLink'
+  window.location.href = '../../provinceSection/provinceLink/NinhThuan/province.html'
 });
 document.getElementById('Binh-Thuan').addEventListener('click', function() {
   window.location.href = '../../provinceSection/provinceLink/BinhThuan/province.html'

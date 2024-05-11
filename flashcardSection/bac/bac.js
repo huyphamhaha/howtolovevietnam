@@ -8,11 +8,11 @@ document.getElementById('Son-La').addEventListener('click', function() {
   window.location.href = '../../provinceSection/provinceLink/SonLa/province.html'
 });
 document.getElementById('Lao-Cai').addEventListener('click', function() {
-  window.location.href = '../../provinceSection/provinceLink'
+  window.location.href = '../../provinceSection/provinceLink/LaoCai/province.html'
 
 });
 document.getElementById('Yen-Bai').addEventListener('click', function() {
-  window.location.href = '../../provinceSection/provinceLink/province.html'
+  window.location.href = '../../provinceSection/provinceLink/YenBai/province.html'
 });
 document.getElementById('Ha-Giang').addEventListener('click', function() {
   window.location.href = '../../provinceSection/provinceLink/HaGiang/province.html'
@@ -21,7 +21,7 @@ document.getElementById('Tuyen-Quang').addEventListener('click', function() {
   window.location.href = '../../provinceSection/provinceLink/TuyenQuang/province.html'
 });
 document.getElementById('Cao-Bang').addEventListener('click', function() {
-  window.location.href = '../../provinceSection/provinceLink'
+  window.location.href = '../../provinceSection/provinceLink/CaoBang/province.html'
 });
 document.getElementById('Bac-Can').addEventListener('click', function() {
   window.location.href = '../../provinceSection/provinceLink/BacKan/province.html'
@@ -60,10 +60,10 @@ document.getElementById('Thai-Binh').addEventListener('click', function() {
   window.location.href = '../../provinceSection/provinceLink/ThaiBinh/province.html'
 });
 document.getElementById('Nam-Dinh').addEventListener('click', function() {
-  window.location.href = '../../provinceSection/provinceLink/province.html'
+  window.location.href = '../../provinceSection/provinceLink/NamDinh/province.html'
 });
 document.getElementById('Ninh-Binh').addEventListener('click', function() {
-  window.location.href = '../../provinceSection/provinceLink'
+  window.location.href = '../../provinceSection/provinceLink/NinhBinh/province.html'
 });
 document.getElementById('Ha-Noi').addEventListener('click', function() {
   window.location.href = '../../provinceSection/provinceLink/HaNoi/province.html'
