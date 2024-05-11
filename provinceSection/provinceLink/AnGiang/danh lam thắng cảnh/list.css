@@ -216,3 +216,9 @@ img {
 .flip-card:not(:last-child) {
   margin-left: 5%;
 }
+
+
+.flip-card:hover .flip-card-inner .flip-card-front,
+.flip-card:focus .flip-card-inner .flip-card-front{
+  display: none;
+}
