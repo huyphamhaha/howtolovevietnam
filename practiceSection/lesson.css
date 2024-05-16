@@ -104,14 +104,15 @@ body{
 }
 
 .start_btn {
-    position: absolute;;
+    position: fixed;
     left: 20px;
     top: 10px;
     margin-top: 15px;
     
-}
-
-.start_btn a{
+  }
+  
+  .start_btn a{
+    border: 1px solid #000;
     text-decoration: none;
     padding: 10px 30px;
     font-size: 20px;
@@ -119,7 +120,6 @@ body{
     color: #007bff;
     outline: none;
     border-radius: 100px;
-    border: none;
     background: #fff;
     cursor: pointer;
 }   
