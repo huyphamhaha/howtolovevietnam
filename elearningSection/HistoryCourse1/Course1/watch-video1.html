@@ -144,7 +144,7 @@
       </div>
 
       <form action="" method="post" class="flex">
-         <a href="/elearningsection/playlist.html" class="inline-btn">Xem các bài học khác</a>
+         <a href="" id="button" class="inline-btn">Xem các bài học khác</a>
       </form>
 
 
@@ -226,6 +226,10 @@
 </section>
 
 <script>
+
+   document.getElementById("backButton").onclick = function () {
+      window.history.back();
+   };
 
    function toggleContent(header) {
         var content = header.nextElementSibling;
